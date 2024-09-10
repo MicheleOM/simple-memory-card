@@ -11,4 +11,6 @@ Codei ele com o intuito de treinar e desenvolver habilidades.
 - **JavaScript**
   
 
+## Screenshots
 
+![App Screenshot](https://raw.githubusercontent.com/MicheleOM/simple-memory-card/main/screenshot.png)
